@@ -55,6 +55,9 @@ var swiper = new Swiper(".mySwiper", {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
+    autoplay: {
+      delay: 2500, // Atur jeda waktu antara setiap geseran (dalam milidetik)
+    },
 });
 
 
