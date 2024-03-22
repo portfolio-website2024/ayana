@@ -56,7 +56,7 @@ var swiper = new Swiper(".mySwiper", {
       prevEl: ".swiper-button-prev",
     },
     autoplay: {
-      delay: 2350, // Atur jeda waktu antara setiap geseran (dalam milidetik)
+      delay: 2500, // Atur jeda waktu antara setiap geseran (dalam milidetik)
     },
     speed: 750, // Atur durasi efek scroll (dalam milidetik)
 });
